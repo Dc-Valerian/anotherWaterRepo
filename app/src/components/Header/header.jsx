@@ -6,7 +6,7 @@ const header=()=>{
     return(
         <Cont>
             <Wrap>
-                <h1>header</h1>
+                <h1>headers</h1>
             </Wrap>
         </Cont>
     )
